@@ -1,0 +1,14 @@
+hsapiens.GO:BP.name.gmt
+hsapiens.GO:BP.name.gmt
+hsapiens.GO:BP.name.gmt
+hsapiens.GO:BP.name.gmt
+hsapiens.GO:BP.name.gmt
+hsapiens.REAC.name.gmt
+hsapiens.REAC.name.gmt
+hsapiens.REAC.name.gmt
+hsapiens.REAC.name.gmt
+hsapiens.REAC.name.gmt
+hsapiens.WP.name.gmt
+hsapiens.WP.name.gmt
+hsapiens.WP.name.gmt
+hsapiens.WP.name.gmt
